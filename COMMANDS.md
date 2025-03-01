@@ -16,8 +16,8 @@
 3. Building Dockerfile
     ```powershell
     docker build -t online_store:v1 .
-    docker tag -t muhammadabdullahabrar/practice:online_store
-    docker push muhammadabdullahabrar/practice:online_store
+    docker tag -t mniet2009/practice:online_store
+    docker push mniet2009/practice:online_store
     ```
 4. Implementing Docker Compose
     ```powershell
