@@ -1,5 +1,4 @@
 
-
 # Stage 1 - Development
 FROM node:18 AS builder
 WORKDIR /app
